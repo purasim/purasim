@@ -1,16 +1,19 @@
-## Hi there 👋
+PuraSIM
 
-<!--
-**purasim/purasim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PuraSIM es una marca de eSIM de viaje para viajeros que quieren conectarse en el extranjero sin roaming, sin tarjetas físicas y sin depender de WiFi público.
 
-Here are some ideas to get you started:
+Con PuraSIM puedes elegir tu destino, comprar online y recibir un código QR por email para instalar tu eSIM en pocos minutos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Qué hacemos
+eSIM de viaje para múltiples destinos
+Internet móvil en el extranjero
+Activación mediante QR
+Soporte en español
+Solución para viajeros, nómadas digitales y viajes de negocios
+Web oficial
+
+https://purasim.com
+
+Contacto
+
+hola@purasim.com
